@@ -1,0 +1,27 @@
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+
+// Solution 1: Using arrays
+// var twoSum = function(nums, target) {
+//     for (var i= 0; i < nums.length; ++i) {
+//         const num1 = nums[i]
+//         const num2 = target - num1
+//         for (var j = i+1; j < nums.length; ++j) {
+//             if (nums[j] === num2) return [i, j]
+//         }
+//     }
+// };
+
+// Solution 2: Using sets
+var twoSum = function(nums, target) {
+    var map = new Map()
+    for (var i=0; i<nums.length; ++i) {
+        const num1 = nums[i]
+        const num2 = target - num1;
+        if (map.has(num2)) return [i, map.get(num2)]
+        else map.set(num1, i)
+    }
+};
