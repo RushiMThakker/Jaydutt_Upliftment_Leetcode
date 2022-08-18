@@ -8,4 +8,9 @@
 |     6     |Arrays|         Pascal's Triangle          |	https://leetcode.com/problems/pascals-triangle/|	17/08/2022|
 |     7     |Arrays|      Pascal's Triangle II          |	https://leetcode.com/problems/pascals-triangle-ii/|	17/08/2022|
 |     8     |Arrays|     Best Time to Buy and Sell Stock          |	https://leetcode.com/problems/best-time-to-buy-and-sell-stock/|	17/08/2022|
+|     9     |Arrays|     Contains Duplicate          |	https://leetcode.com/problems/contains-duplicate/|	18/08/2022|
+|    10     |Arrays|     Missing Number          |	https://leetcode.com/problems/missing-number/|	18/08/2022|
+|    11     |Arrays|     Move Zeroes          |	https://leetcode.com/problems/move-zeroes/|	18/08/2022|
+|    12     |Arrays|     Range Sum Query - Immutable          |	https://leetcode.com/problems/range-sum-query-immutable/|	18/08/2022|
+|    13     |Arrays|     Third Maximum Number          |	https://leetcode.com/problems/third-maximum-number/|	18/08/2022|
 
